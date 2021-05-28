@@ -1,0 +1,78 @@
+AS/1,AS/2,AS/3,AS/4,AS/5,SIZE
+kidney,kidney capsule,,,,1
+kidney,cortex of kidney,outer cortex of kidney,,,1
+kidney,cortex of kidney,juxtamedullary cortex,,,1
+kidney,cortex of kidney,medullary ray,,,1
+kidney,renal medulla,kidney outer medulla outer stripe,,,1
+kidney,renal medulla,kidney outer medulla inner stripe,,,1
+kidney,renal medulla,inner medulla of kidney,,,1
+kidney,renal medulla,inner medulla of kidney,renal papilla,papillary tip,1
+kidney,renal medulla,renal column,,,1
+kidney,renal medulla,renal pyramid,,,1
+kidney,hilum of kidney,,,,1
+kidney,renal fat pad,,,,1
+kidney,renal pelvis,kidney calyx,,,1
+kidney,renal pelvis,major calyx,,,1
+kidney,renal pelvis,minor calyx,,,1
+kidney,cortex of kidney,Renal Corpuscle,Glomerular Epithelium,Parietal epithelial layer,1
+kidney,cortex of kidney,Renal Corpuscle,Glomerular Epithelium,Visceral epithelial layer,1
+kidney,cortex of kidney,Renal Corpuscle,Glomerulus Vasculature,Glomerular capillary endothelium,1
+kidney,cortex of kidney,Renal Corpuscle,Mesangium,Glomerular mesangium,1
+kidney,nephron,Tubules,Proximal Tubule,,1
+kidney,nephron,Tubules,Proximal Tubule,Proximal convoluted tubule segment 1,1
+kidney,nephron,Tubules,Proximal Tubule,Proximal convoluted tubule segment 2,1
+kidney,nephron,Tubules,Proximal Tubule,Proximal convoluted tubule segment 3,1
+kidney,nephron,Tubules,Loop of Henle (Thin Limb),descending thin limb of loop of Henle,1
+kidney,nephron,Tubules,Loop of Henle (Thin Limb),descending thin limb of loop of Henle 1,1
+kidney,nephron,Tubules,Loop of Henle (Thin Limb),descending thin limb of loop of Henle 2,1
+kidney,nephron,Tubules,Loop of Henle (Thin Limb),descending thin limb of loop of Henle 3,1
+kidney,nephron,Tubules,Loop of Henle (Thin Limb),,1
+kidney,nephron,Tubules,Loop of Henle (Thick Limb),,1
+kidney,nephron,Tubules,Loop of Henle (Thick Limb/Cortex),,1
+kidney,nephron,Tubules,Loop of Henle (Thick Limb/Medulla),,1
+kidney,nephron,Tubules,Loop of Henle (Thick Limb/ Cortex),,1
+kidney,nephron,Tubules,Distal Convolution,,1
+kidney,nephron,Tubules,Distal Convolution,,1
+kidney,nephron,Tubules,Distal Convolution,,1
+kidney,nephron,Tubules,Connecting Tubule,,1
+kidney,nephron,Tubules,Connecting Tubule,,1
+kidney,nephron,Tubules,Connecting Tubule,,1
+kidney,nephron,Tubules,Connecting Tubule,,1
+kidney,nephron,Tubules,Connecting Tubule,,1
+kidney,renal collecting system,Tubules,Collecting Duct,,1
+kidney,renal collecting system,Tubules,Collecting Duct,,1
+kidney,renal collecting system,Tubules,Collecting Duct (Cortex),,1
+kidney,renal collecting system,Tubules,Collecting Duct (Outer Medula),,1
+kidney,renal collecting system,Tubules,Collecting Duct (Inner Medulla),,1
+kidney,renal collecting system,Tubules,Collecting Duct,,1
+kidney,renal collecting system,Tubules,Collecting Duct,,1
+kidney,renal collecting system,Tubules,Collecting Duct,,1
+kidney,renal collecting system,Tubules,Collecting Duct (Cortex),,1
+kidney,renal collecting system,Tubules,Collecting Duct (Medulla),,1
+kidney,renal collecting system,Tubules,Collecting Duct,,1
+kidney,renal collecting system,Tubules,Collecting Duct,,1
+kidney,Vessels,Endothelium (non glomerular),,,1
+kidney,Vessels,Endothelium/Juxtaglomerular apparatus,Afferent Arteriole,,1
+kidney,Vessels,Endothelium/Juxtaglomerular apparatus,Efferent Arteriole,,1
+kidney,Vessels,Endothelium/cortex (non glomerular),Peritubular Capillary,,1
+kidney,Vessels,Endothelium (non glomerular),Descending Vasa Recta,,1
+kidney,Vessels,Endothelium (non glomerular),Ascending Vasa Recta,,1
+kidney,Vessels,Endothelium (non glomerular),lymphatics,,1
+kidney,Interstitium,Stroma (non glomerular),,,1
+kidney,Interstitium,Stroma (non glomerular),,,1
+kidney,Interstitium,Stroma (non glomerular),,,1
+kidney,Interstitium,Stroma (non glomerular),,,1
+kidney,Interstitium,Immune,,,1
+kidney,Interstitium,Immune,,,1
+kidney,Interstitium,Immune,,,1
+kidney,Interstitium,Immune,,,1
+kidney,Interstitium,Immune,,,1
+kidney,Interstitium,Immune,,,1
+kidney,Interstitium,Immune,,,1
+kidney,Interstitium,Immune,,,1
+kidney,Interstitium,Immune,,,1
+kidney,Interstitium,Immune,,,1
+kidney,Interstitium,Immune,,,1
+kidney,Interstitium,Immune,,,1
+kidney,Interstitium,Immune,,,1
+kidney,Interstitium,Immune,,,1
